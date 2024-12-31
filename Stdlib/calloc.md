@@ -23,7 +23,7 @@ int main() {
     }
 
     // Звільнення виділеної пам'яті
-    free(numbers);
+	    z
 
     return 0;
 }
